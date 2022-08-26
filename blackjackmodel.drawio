@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T19:27:39.797Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36" etag="hnie8etrMHRUIlI8n665" version="20.2.7" type="github"><diagram id="8ncYfvZvJupFvGLXPevh" name="Page-1">7Vldb9sgFP010Z422cZOmsc6TbtPqVKnbX2k5jZ2S4yFyYf36wcYxyEknae2SZT1JTGHC1zOPVwD7qHRdHnFcZF+YwRoL/DIsocuekHg972h/FNIVSNnZ2ENTHhGjFEL3GS/wYCeQWcZgdIyFIxRkRU2mLA8h0RYGOacLWyze0btUQs8AQe4STB10Z8ZEamZReS1+EfIJmkzsu+ZmilujA1QppiwxRqExj004oyJ+mm6HAFV5DW81O0ud9SuHOOQiy4NPo2/nA/u4EflEfLAL9/zZHT7Pqh7mWM6MxOOKU4eJfS5/rvCU5B/JrB6HqJqyBGwlEPHqZhSCfjysRScPcKIUcYlkrNcWsb3GaUbEKbZJJfFRDoPEo/nwEUmaT83FdOMEDVMvEgzATcFTtSYCykyiXE2ywmoeXmqe5YLIxzFamymJDuE5U6u/FUEpHSBTUHwSpqYBsEgqptUthoXrQRQE+h0LfyhwbBR3WTVcxsY+WBi8w9xipw4OcEAIoVrioyLlE1Yjum4RTdoa22+MlaY+D2AEJUhE88Es6O7xrTfXzGtBn6aZ+knm/EEnpggMmsb8wmIJ+zC7XHjQLHI5rYfLx4F5EThCnLgWKglomo4zgmbqnSEOSl1vuEqF6h6WSV/Y7ncNyNnx2Wb4P8ag2epHTXyNmrvu2qXcnfV3n8ttftnpy73sKPc/cEh9R46YTgnREuZiRS40flK5ndK20bnBcWVttA1BS7LI5T90E7y0Rbd+8Eedd93+L5lMzU4nusM4ytnNUJZCUdHaIR8i9AwdAn1mw3hOqHRaxEauoyeWCIZdn1vRodMJMMdwiYsfydsgR+ZpuVef0PTkaPpoe9K+tV2gshNyicm6fqd10HTCB1S042b/8nbMdiSzPf7dmwcOF3lo66nIDQ8pPKRew4apaCvC7L740zj6Mw+4qDAVfNe03jon7yYu25NDqrlMHiLw/rp42A5xd0iOnEoU1zojIGrgmWKh7h8BJGkhveyJlDxp+uBj+eSrtJwrDHtdxT3oouNi0kC93hGVZ8cZEf4To/q6eAKLNbKBfBMTlpdW5r7y+sWicscF9/Zde3f1tjaYnmB5BZ69m3ltj1quM/byvD072+ijosqPOgFTnScWyZJN69+mf504VYVPkRN8WK5XnlRWWtlvwF89g2caVpnhPZc6aMP9qqNhhvLsXbNtGuFcM45rtbMTFrbOdLqWmtjnMuO9sHAspcPtQetKlesPCNjdPjA8Zb+d1xRRI6UBu7udr8vAPdsfK0PuV5iDgqLlGn/cifM/3g4sCTw4tyiaGAzu+XbiI/6Df/PPAfLYvs9uF5a7Vd1NP4D</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-26T16:24:46.539Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36" etag="XGiLAlCBZDMNY0sd2K46" version="20.2.7" type="github">
+  <diagram id="8ncYfvZvJupFvGLXPevh" name="Page-1">
+    <mxGraphModel dx="1736" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IEKA7beVy0ddjrF-rcCY-2" value="Black Jack Game Model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="275" y="10" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ta5nsArUzucjMFqTiB17-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IEKA7beVy0ddjrF-rcCY-3" target="IEKA7beVy0ddjrF-rcCY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEKA7beVy0ddjrF-rcCY-3" value="Generate 2 random cards for me and Bot" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="310" y="140" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IEKA7beVy0ddjrF-rcCY-6" value="You have 21 you lose" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="531" y="440" width="109" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IEKA7beVy0ddjrF-rcCY-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="IEKA7beVy0ddjrF-rcCY-9" target="IEKA7beVy0ddjrF-rcCY-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEKA7beVy0ddjrF-rcCY-9" value="You don&#39;t have 21" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="228" y="445" width="91" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IEKA7beVy0ddjrF-rcCY-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="IEKA7beVy0ddjrF-rcCY-17" target="IEKA7beVy0ddjrF-rcCY-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEKA7beVy0ddjrF-rcCY-17" value="Add another card for bot and player or pass" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="319" y="240" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IEKA7beVy0ddjrF-rcCY-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="IEKA7beVy0ddjrF-rcCY-33" target="IEKA7beVy0ddjrF-rcCY-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEKA7beVy0ddjrF-rcCY-33" value="Check if 21" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="380" y="320" width="91" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IEKA7beVy0ddjrF-rcCY-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="IEKA7beVy0ddjrF-rcCY-39" target="IEKA7beVy0ddjrF-rcCY-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEKA7beVy0ddjrF-rcCY-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="IEKA7beVy0ddjrF-rcCY-39" target="IEKA7beVy0ddjrF-rcCY-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEKA7beVy0ddjrF-rcCY-39" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=16;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="405" y="445" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IEKA7beVy0ddjrF-rcCY-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="IEKA7beVy0ddjrF-rcCY-45" target="IEKA7beVy0ddjrF-rcCY-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEKA7beVy0ddjrF-rcCY-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IEKA7beVy0ddjrF-rcCY-45" target="IEKA7beVy0ddjrF-rcCY-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="213.5" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="590" />
+              <mxPoint x="150" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEKA7beVy0ddjrF-rcCY-45" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=16;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="253.5" y="570" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IEKA7beVy0ddjrF-rcCY-47" value="Pass check who win" style="whiteSpace=wrap;html=1;fontSize=16;sketch=0;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="357" y="560" width="136.5" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
